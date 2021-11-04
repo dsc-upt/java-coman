@@ -64,7 +64,7 @@ public class Main {
         //System.out.println(dog1);
 
         Dog dog2 = new Dog("Alin", 12, true);
-        //System.out.println(dog2);
+        System.out.println(dog2);
 
         if(dog1.equals(dog2)) {
             System.out.println("Egale");
